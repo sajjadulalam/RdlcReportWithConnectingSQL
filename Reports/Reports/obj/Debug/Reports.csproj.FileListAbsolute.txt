@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Reports\Reports\bin\Debug\Reports.exe.config
+C:\Users\Asus\source\repos\Reports\Reports\bin\Debug\Reports.exe
+C:\Users\Asus\source\repos\Reports\Reports\bin\Debug\Reports.pdb
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\Reports.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\Reports.Form2.resources
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\Reports.Properties.Resources.resources
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\Reports.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\RdlCompile.cache
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\RdlCompile.compiled
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\Reports.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\Reports.exe
+C:\Users\Asus\source\repos\Reports\Reports\obj\Debug\Reports.pdb
